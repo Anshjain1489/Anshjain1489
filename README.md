@@ -140,7 +140,8 @@ src="https://streak-stats.demolab.com?user=Anshjain1489&theme=github-dark-blue&h
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Anshjain1489&theme=github-dark&hide_border=true&area=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshjain1489&theme=github_dark"
+alt="Ansh Jain GitHub Contribution Graph"
 />
 
 </p>
