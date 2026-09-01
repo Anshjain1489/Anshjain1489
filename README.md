@@ -110,15 +110,13 @@ A repository dedicated to improving programming and problem-solving skills.
 <p align="center">
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Anshjain1489&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-alt="Ansh Jain GitHub Stats"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshjain1489&theme=github_dark"
+alt="GitHub Statistics"
 />
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshjain1489&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-alt="Most Used Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshjain1489&theme=github_dark"
+alt="Top Languages"
 />
 
 </p>
